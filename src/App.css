@@ -3,6 +3,14 @@
   text-align: center;
 }
 
+.app-header {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
 .description {
   text-transform: capitalize;
 }
